@@ -1,0 +1,200 @@
+{
+  "Home": {
+    "Header": {
+      "home": "HOME",
+      "about": "ABOUT",
+      "shareholders": "shareholders",
+      "products": {
+        "products": "products",
+        "main": "MAIN PRODUCTS",
+        "side": "SIDE PRODUCTS"
+      },
+      "news": "News",
+      "gallery": "Gallery",
+      "blog": "Blog",
+      "auctions": "Auctions",
+      "mining": "mining activities",
+      "download": "download center",
+      "contact": "contact us"
+    },
+    "Slider": {
+      "slide1": {
+        "pretitle": "Industry",
+        "title": "Energy & Commodities",
+        "des": "Achieving this successfully calls for a vision of what can be and a distinct ability to identify opportunities for salvaging elements."
+      },
+      "slide2": {
+        "pretitle": "Construction",
+        "title": "New Construction",
+        "des": "Industify was the first company to develop methods and equipment for the successful deep compaction of soil in the 1930s"
+      },
+      "slide3": {
+        "pretitle": "",
+        "title": "",
+        "des": ""
+      },
+      "slide4": {
+        "pretitle": "",
+        "title": "",
+        "des": ""
+      },
+      "slide5": {
+        "pretitle": "",
+        "title": "",
+        "des": ""
+      }
+    },
+    "Principles": {
+      "srmtitle": "Supplier relationship management",
+      "itttitle": "Auctions",
+      "stocktitle": "Stock market helper"
+    },
+    "Blogs": {
+      "blogtitle": "Blogs",
+      "readmore": "Read more"
+    },
+    "About": {
+      "aboutustitle": "Iranian Ghadir Iron & Steel Co.",
+      "aboutusdespart1": "In order to advance the iron and steel industry of Iran and in line with the twenty year plan for economic and social development, Iranian Ghadir Iron and Steel Co. established in 2006, which was made possible with cooperation of Iranian mines and mining Industries Development and renovation organization (IMIDRO) and with the share of Ghadir Investment company, Chadormalu Mining & Industrial Co. (CMIC) and Iran Alloy Steel Co.",
+      "aboutusdespart2": "Ghadir DRI plant with annual capacity of  800,000 tons sponge iron with the aim to fulfill the needs of melting and casting units of the Yazd province and other steel producers of the country established.  It is located in an area of 86 hectors, with a distance of 25 kilometers from the city of Ardakan, Yazd Province and beside the Chadormalu Pelletizing Complex and Arfa Iron and Steel Co."
+    },
+    "Services": {
+      "title": "Products",
+      "des": "Main and side products",
+      "spongeiron": "Sponge Iron (DRI)",
+      "briquette": "Briquette (CBI)",
+      "drifine": "DRI Fine",
+      "pelletfine": "Pellet Fine",
+      "drisludge": "DRI Sludge"
+    },
+    "News": {
+      "newstitle": "News",
+      "readmore": "Read more"
+    },
+    "Miningactivities": {
+      "title": "Mining activities",
+      "des1": "In order to develop mines and mining industries, Iranian Ghadir Iron and Steel Company has invested in the metal mines sector and started discovery activities, while taken required actions to equip related mines for extraction activities.",
+      "des2": "Moreover, due to ownership of Sourgah mine in Jiroft, this company is also planning to establish a plant for production of Ferro Silicon Manganese and for this purpose, is seriously looking after investigatory and exploratory activities to identify iron ore, Manganese, chromite, copper and other industrial soils in different provinces of the country, few of which are as followings.",
+      "minig1": {
+        "title": "Darouneh Placeri Iron Ore Mine",
+        "location": "Location: Khorasan Razavi Province, south Bardaskan",
+        "method": "Extraction Method: Surface mining",
+        "status": "This mine is under preparation and construction."
+      },
+      "minig2": {
+        "title": "Sourgah Manganese Mine",
+        "location": "Location: Kerman Province, West Jiroft. Area: 14 km2",
+        "method": "Extraction Method: Surface mining",
+        "status": "This mine is under operation."
+      },
+      "minig3": {
+        "title": "Torbat Heidarieh Copper Exploratory Area",
+        "location": "Location: Khorasan Razavi Province, Torbat Heidarieh",
+        "method": "Extraction Method: Surface mining",
+        "status": "Exploratory Operations of this mine is scheduled by senior experts of this company."
+      }
+    },
+    "Footer": {
+      "addresstitle": "Address:",
+      "teltitle": "Tel:",
+      "headoffice": {
+        "title": "Head office",
+        "address": "No. 1, 34th Alley, Valiasr St., After Saei Park, Tehran  Iran",
+        "tel1": "(+98 21) 88875397",
+        "tel2": "(+98 21) 88875467"
+      },
+      "factory": {
+        "title": "Factory",
+        "address": "25th Km. Ardakan  Naein Road, Yazd  Iran",
+        "tel1": "(+98 35) 31577300-4",
+        "tel2": "(+98 35) 31577333"
+      }
+    }
+  },
+  "Pages": {
+    "Shareholders": {
+      "shareholder1": {
+        "title": "Chadormalu Mining & Industrial Co. (CMIC)",
+        "des": "CMIC was established by investment of Bank Sepah and National Iranian Steel Co. At the present time, its shareholders are Omid Investment Management Corporation, Iranian Mines and Mining Industrial Development and Renovation Organization (IMIDRO), Mines and Metals Development Investment Co. (MMDIC) and other shareholders."
+      },
+      "shareholder2": {
+        "title": "Iron Alloy Steel Co.",
+        "des": "Iran Alloy Steel Co. is one of the largest producers of alloy steel in Iran and Middle East and it is among the most modern alloy steel companies in the world. Since starting its production in 1999, it has managed to increase its capacity to 300,000 ton per annum. The steel making plants, heavy and light rolling sectores, heating operation and finished sector of this company equipped with the most advanced facilities and the latest world technical knowhow, which makes it capable of producing alloy steel of the highest quality, in line with international standards. The products of this company are used extensively in aerospace industries, oil and petrochemicals, power station, toolings, medical and surgical equipments, automotive industries, machinery and other special industries."
+      },
+      "shareholder3": {
+        "title": "Ghadir Industrial and Mining Development International Co.",
+        "des": "Ghadir Industrial and Mining Development International Co."
+      },
+      "shareholder4": {
+        "title": "Shahrood Steel Co.",
+        "des": ""
+      }
+    },
+    "Contact": {
+      "title": "Contact us",
+      "formtitle": "Get in touch with us",
+      "forminputname": "Name",
+      "forminputemail": "Email",
+      "forminputmessage": "Message",
+      "formsend": "Send",
+      "headoffice": {
+        "title": "Head office",
+        "address": "No. 1, 34th Alley, Valiasr St., After Saei Park, Tehran  Iran",
+        "tel1": "(+98 21) 88875397",
+        "tel2": "(+98 21) 88875467",
+        "email": "info@igisco.ir"
+      },
+      "factory": {
+        "title": "Factory",
+        "address": "25th Km. Ardakan  Naein Road, Yazd  Iran",
+        "tel1": "(+98 35) 31577300  4",
+        "tel2": "(+98 35) 31577333"
+      }
+    },
+    "About": {
+      "title": "About us",
+      "des1": "In order to advance the iron and steel industry of Iran and in line with the twenty year plan for economic and social development, Iranian Ghadir Iron and Steel Co. established in 2006, which was made possible with cooperation of Iranian mines and mining Industries Development and renovation organization (IMIDRO) and with the share of Ghadir Investment company, Chadormalu Mining & Industrial Co. (CMIC) and Iran Alloy Steel Co.",
+      "des2": "Ghadir DRI plant with annual capacity of  800,000 tons sponge iron with the aim to fulfill the needs of melting and casting units of the Yazd province and other steel producers of the country established.  It is located in an area of 86 hectors, with a distance of 25 kilometers from the city of Ardakan, Yazd Province and beside the Chadormalu Pelletizing Complex and Arfa Iron and Steel Co.",
+      "des3": "The entire engineering and basic design of the plant is based on MIDREX Technology.  In addition, latest  technical improvements in process and  design control systems of MIDREX Modules being run in Iran or worldwide has been taken in to consideration.",
+      "projects": {
+        "first": "Project Initiation Date: 6 January,2008",
+        "second": "Project start up Date: 25 November,2010",
+        "third": "Project Production Date: 20 April 2011"
+      }
+    },
+    "News": {
+      "title": "news number",
+      "des": "description number",
+      "readmore": "Read more"
+    },
+    "Blogs": {
+      "title": "blog number",
+      "des": "description number",
+      "readmore": "Read more"
+    },
+    "Auctions": {
+      "title": "auction number",
+      "des": "description number",
+      "readmore": "Read more"
+    }
+  },
+  "SRM": {
+    "register": {
+      "title": "Register",
+      "des": "Have an account?",
+      "redirectbutton": "SIGN IN",
+      "fieldname": "Username",
+      "fieldphone": "Phone",
+      "fieldpass": "Password",
+      "submitbutton": "SIGN UP"
+    },
+    "signin": {
+      "title": "Sign in",
+      "des": "Dont have an account?",
+      "redirectbutton": "SIGN UP",
+      "fieldname": "Username",
+      "fieldpass": "Password",
+      "submitbutton": "SIGN IN"
+    }
+  }
+}
